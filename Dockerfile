@@ -1,6 +1,6 @@
-FROM alpine:3.14
+FROM alpine:3.10
 
-LABEL version="0.0.0"
+LABEL version="0.0.1"
 LABEL description="A simple hello world Docker container"
 LABEL maintainer="GitHub Professional Services "
 
