@@ -4,4 +4,4 @@ LABEL version="0.0.1"
 LABEL description="A simple hello world Docker container"
 LABEL maintainer="GitHub Professional Services"
 
-CMD ["echo", "Hello GitHub Container Registry (ghcr.io)!"]
+CMD ["echo", "Hello from GitHub Container Registry (ghcr.io)!"]
