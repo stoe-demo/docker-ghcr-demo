@@ -2,7 +2,7 @@ name: registry_package
 
 on:
   registry_package:
-    types: [published, created, released]
+    types: [published, updated]
 
 jobs:
   build:
